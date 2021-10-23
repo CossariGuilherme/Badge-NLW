@@ -94,7 +94,7 @@ ul {
     background: #121214;
   }
   body {
-    background: url(/images/desktop.png) no-repeat center/cover;
+    background: url(./images/desktop.png) no-repeat center/cover;
     width: 100vw;
     min-height: 812px;
     height: 100vh;
